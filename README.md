@@ -1,7 +1,8 @@
 # Image-Contrast-Enhancement-using-Genetic-Algorithm
 
 This repository holds an implementation of image contrast enhancement using genetic algorithm as proposed in the [paper](https://ieeexplore.ieee.org/abstract/document/5190563/)
-###### Language used: Python
+
+##### Language used: Python
 
 Libraries used are mentioned in the requirements.txt file
 
