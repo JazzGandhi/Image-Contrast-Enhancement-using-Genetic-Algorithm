@@ -1,0 +1,5 @@
+numpy
+PIL
+matplotlib
+cv2
+tqdm
